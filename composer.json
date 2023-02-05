@@ -1,0 +1,21 @@
+{
+    "name": "iihossein/map",
+    "description": "in this project we can add Our location",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Iihossein\\Map\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "iihossein",
+            "email": "hosseinnazarigit@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "hekmatinasser/verta": "^2.1"
+    }
+}
